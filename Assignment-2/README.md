@@ -80,5 +80,3 @@ feel free to reach out at:
 - GitHub: [flickShot555](https://github.com/flickShot555)
 - LinkedIn: [Abbas Khan](https://www.linkedin.com/in/the-abbas-khan/)
 - Portfolio: [Aepostrophee](https://www.aepostrophee.kesug.com/)
-
-*   Website: [abbaskhan.com](https://abbaskhan.com)*
